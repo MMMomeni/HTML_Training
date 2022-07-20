@@ -1,0 +1,41 @@
+.center {
+
+    border-spacing: 20px ;
+    font: caption;
+  }
+
+  td {
+  width: 220px;
+}
+
+.problem2{
+  font-size: x-large;
+}
+
+.problem3{
+  font-size: xx-large;
+}
+
+.problem4{
+  font-size: x-large;
+  
+}
+
+.problem5{
+  font-size: x-large;
+  color: rgb(70, 87, 183);
+}
+
+
+button{
+  width: 98%;
+  height: 80px;
+  font-size: large;
+ 
+  
+  color: blue;
+  margin: 2px;
+  
+  
+}
+
